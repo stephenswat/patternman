@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: PatternMan
+## Notes: Pattern buying addon.
+## Version: 1.0
+## SavedVariablesPerCharacter: PATTERNMAN_itemList, PATTERNMAN_autoClose
+
+PatternMan.lua
